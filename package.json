@@ -1,0 +1,18 @@
+{
+  "name": "graphql-backend",
+  "version": "1.0.0",
+  "description": "Just a simple graphql backend created for my intro to GraphQL ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^5.1.0",
+    "graphql": "^16.10.0"
+  }
+}
